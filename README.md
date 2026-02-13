@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective date:** [DATE]
+**Effective date:** 13.02.2026
 
-This privacy policy applies to all mobile applications developed and published by [DEVELOPER NAME] on Google Play.
+This privacy policy applies to all mobile applications developed and published by TheSheriff on Google Play.
 
 ---
 
@@ -25,7 +25,7 @@ AdMob may collect and use certain data to provide personalized or non-personaliz
 - IP address
 - App usage data
 
-This data is collected and processed by Google according to their privacy policy.
+This data is collected and processed by Google according to their privacy policy. Our mobile applicaitons does not collect any data for anything in the application itself.
 
 Learn more:
 https://policies.google.com/privacy
@@ -34,7 +34,7 @@ https://policies.google.com/privacy
 
 ## Data Sharing
 
-We do not sell, trade, or share user personal information with third parties.
+We do not sell, trade, or share user personal information with third parties. Our mobile applicaitons does not collect any data for anything in the application itself.
 
 Third-party services (like AdMob) may process data as described in their own policies.
 
@@ -66,4 +66,4 @@ Any changes will be posted on this page with an updated effective date.
 
 If you have any questions or suggestions about this Privacy Policy, contact:
 
-[EMAIL ADDRESS]
+aliserifdemiralp@gmail.com
